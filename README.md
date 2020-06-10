@@ -14,8 +14,10 @@ The web site will introduce my professional profile. The page full stack introdu
 **3.	Installation**
 
 The web site needs installation of special libraries. Download and install the ML.NET Model Builder tool from the Visual Studio Marketplace. It is important to add Microsoft.Extensions.ML and Entity Framework Core from NuGet Packages. 
-
 https://marketplace.visualstudio.com/items?itemName=MLNET.07
+
+In the PMC, enter the migration commands: Add-Migration InitialCreate and Upate-Database. 
+https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/
 
 **4.	Features** 
 
