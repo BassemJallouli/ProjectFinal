@@ -5,6 +5,8 @@
 
 The project is my portfolio web site. The visitor can discover my profile, my full stack conferences page and my machine learning page doing reviews for comments in real time. I add interests page to have an idea about my personality and my hobbies. It is great tool to present my software skills using C# in ASP.NET Core and the library ML.NET.
 
+Project management is prepared by Trello : https://trello.com/b/pOzQHAVO/happy-data-project
+
 **2.	Description** 
 
 The web site will introduce my professional profile. The page full stack introduces the conferences, during the program of TECHCareer, you can create or read or update or delete a conference. The user can do sentiment analysis of reviews using machine learning library. The visitor can connect to my Linkedin and Github profile.
