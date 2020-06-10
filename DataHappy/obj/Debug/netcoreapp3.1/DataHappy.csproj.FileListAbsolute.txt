@@ -559,3 +559,5 @@ C:\Users\Happy\Desktop\ProjectFinal\DataHappy\obj\Debug\netcoreapp3.1\staticweba
 C:\Users\Happy\Desktop\ProjectFinal\DataHappy\obj\Debug\netcoreapp3.1\DataHappy.dll
 C:\Users\Happy\Desktop\ProjectFinal\DataHappy\obj\Debug\netcoreapp3.1\DataHappy.pdb
 C:\Users\Happy\Desktop\ProjectFinal\DataHappy\obj\Debug\netcoreapp3.1\DataHappy.genruntimeconfig.cache
+C:\Users\Happy\Desktop\ProjectFinal\DataHappy\obj\Debug\netcoreapp3.1\Razor\Pages\Resume.cshtml.g.cs
+C:\Users\Happy\Desktop\ProjectFinal\DataHappy\obj\Debug\netcoreapp3.1\Razor\Pages\Interests.cshtml.g.cs
